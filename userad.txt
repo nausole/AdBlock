@@ -1,0 +1,87 @@
+@@blogpfthumb-phinf.pstatic.net
+@@lcs.naver.com
+! 2018. 10. 6. 오후 2:51:53 https://www.sadeempc.com/idm/
+www.sadeempc.com##.code-block-4.code-block
+
+! 2018. 10. 6. 오후 2:52:19 https://www.sadeempc.com/idm/
+www.sadeempc.com###download_file
+
+! 2018. 10. 6. 오후 2:52:36 https://www.sadeempc.com/idm/
+www.sadeempc.com##.sd-sharing-enabled.sharedaddy
+
+! 2018. 10. 6. 오후 2:53:03 https://www.sadeempc.com/idm/
+www.sadeempc.com##.code-block-1.code-block
+
+! 2018. 10. 6. 오후 2:53:43 https://www.sadeempc.com/idm/
+www.sadeempc.com###blog_subscription-2
+
+! 2018. 10. 6. 오후 2:53:59 https://www.sadeempc.com/idm/
+www.sadeempc.com###text-3
+
+! 2018. 10. 6. 오후 2:54:41 https://www.sadeempc.com/idm/
+www.sadeempc.com###nav-topbar
+
+! 2018. 10. 6. 오후 2:55:30 https://www.sadeempc.com/idm/
+www.sadeempc.com##.code-block-2.code-block
+
+! 2018. 10. 6. 오후 3:09:04 http://prod.danawa.com/list/?cate=112758&15main_11_02
+prod.danawa.com###mainAdReader
+
+! 2018. 10. 6. 오후 3:09:31 http://prod.danawa.com/list/?cate=112758&15main_11_02
+prod.danawa.com###ebayPowerClickBottomArea
+
+! 2018. 10. 6. 오후 3:09:47 http://prod.danawa.com/list/?cate=112758&15main_11_02
+prod.danawa.com###danawa_footer
+
+! 2018. 10. 6. 오후 3:10:07 http://prod.danawa.com/list/?cate=112758&15main_11_02
+prod.danawa.com###brandHallArea
+
+! 2018. 10. 6. 오후 3:10:32 http://prod.danawa.com/list/?cate=112758&15main_11_02
+prod.danawa.com##div.event_sect:nth-of-type(10)
+
+! 2018. 10. 6. 오후 3:11:05 http://prod.danawa.com/list/?cate=112758&15main_11_02
+prod.danawa.com###ebayPowerClickBottomArea
+
+! 2018. 10. 6. 오후 3:11:31 http://prod.danawa.com/list/?cate=112758&15main_11_02
+prod.danawa.com###brandHallArea
+
+! 2018. 11. 9. 오후 5:34:38 https://fantasti.cc/user/cartoonx76/videos/upload/Overwatch-fap-compilation-for-the-fans/2424110/?utm_medium=cpm&utm_campaign=20180708&utm_source=awn-rse-fcc
+fantasti.cc###ImapwUxA
+
+! 2018. 12. 27. 오후 10:20:36 http://prod.danawa.com/list/?cate=112763&15main_11_02
+prod.danawa.com###mainAdPoint
+
+! 2018. 12. 27. 오후 10:20:52 http://prod.danawa.com/list/?cate=112763&15main_11_02
+prod.danawa.com##.line_1.product_ad_banner
+
+||dyncdn.me/static/20/js/expla89.js
+||dyncdn2.com/static/20/js/expla89.js
+||s4yxaqyq95.com^
+
+! 2019. 1. 22. 오후 12:38:01 https://cafe.naver.com/malzero
+cafe.naver.com##.activated-detector.Flash_det_wrap
+
+! 2019. 1. 23. 오전 10:43:29 https://www.naver.com/
+www.naver.com###shp_cst
+
+! 2019. 2. 3. https://www.torrentmap.com
+www.torrentmap.com###hd_pops_2
+www.torrentmap.com###hd_wrapper > div:nth-of-type(2)
+www.torrentmap.com###ad_board
+www.torrentmap.com###container > div:nth-of-type(1)
+www.torrentmap.com###bo_v_atc > div:nth-of-type(3)
+www.torrentmap.com###bo_v_atc > div:nth-of-type(4)
+www.torrentmap.com###container_wr > div:nth-of-type(5)
+www.torrentmap.com##section#bo_v_file:nth-of-type(1) > ul:nth-of-type(1)
+www.torrentmap.com##section#bo_v_file:nth-of-type(1) > ul:nth-of-type(2)
+
+! 2019. 2. 21. https://download.cnet.com
+download.cnet.com###video_player
+
+! 2019. 2. 24. https://toonkor.link
+||toonkor.*/bann/*
+toonkor.*##.content-zoom.no-attach.view-head.panel-default.panel.contents > div:nth-of-type(2)
+toonkor.*##[href="https://s-g-s-g114.com"]
+toonkor.*##.mobile-banner.col-md-12
+toonkor.*##.bnt.bn
+toonkor.*##.no-attach.view-head.panel-default.panel.contents > [href="http://www.but0777.com"]
