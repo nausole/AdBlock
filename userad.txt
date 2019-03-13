@@ -78,6 +78,13 @@ www.torrentmap.com##section#bo_v_file:nth-of-type(1) > ul:nth-of-type(2)
 ! 2019. 2. 21. https://download.cnet.com
 download.cnet.com###video_player
 
+! Block the playlist
+*.cnet.com/videos/manifest/*.m3u8?device=ott*
+! Block the script that loads the playlists
+*.cbsistatic.com/fly/js/pages/desktop/article_video_test*.js
+! Element hiding: hide the now-useless placeholder
+www.cnet.com##.entered.dock.inviewElement
+
 ! 2019. 2. 24. https://toonkor.link
 ||toonkor.*/bann/*
 toonkor.*##.content-zoom.no-attach.view-head.panel-default.panel.contents > div:nth-of-type(2)
@@ -85,3 +92,36 @@ toonkor.*##[href="https://s-g-s-g114.com"]
 toonkor.*##.mobile-banner.col-md-12
 toonkor.*##.bnt.bn
 toonkor.*##.no-attach.view-head.panel-default.panel.contents > [href="http://www.but0777.com"]
+
+! 2019. 3. 3. https://www.pervclips.com
+www.pervclips.com###after-adv
+www.pervclips.com##.video > .thumb_spots
+
+! 2019. 3. 4. https://2cpu.co.kr
+2cpu.co.kr##.header-wrapper > .container-fluid > .row
+2cpu.co.kr##.col-lg-2.col-md-2.hidden-sm.hidden-xs > [href^="../bbs/banner_link.php"]
+2cpu.co.kr##.table-bordered.table-hover.table-condensed.table
+2cpu.co.kr##.text-right
+
+! 2019. 3. 4. https://www.boannews.com
+||www.boannews.com/m*_banner.asp$subdocument
+||was.livere.me/$subdocument
+www.boannews.com###bottom
+
+! 2019. 3. 6. https://www.pronworld.com
+www.pronworld.com###invideo
+
+! 2019. 3. 8. https://www.keezmovies.com
+www.keezmovies.com###vjs-inplayer-overlay
+
+! 2019. 3. 13. http://ani24yoi.com
+ani24yoi.com##.view_box_right > [href^="/ads.php"]
+
+! 2019. 3. 13. https://www.feelani.com
+||www.ilovevid.com/banner/860150.gif$image
+
+! 2019. 3. 13. https://linktv.co
+linktv.co##.popover-content
+
+! 2019. 3. 13. https://www.bujatv16.me
+www.bujatv*.me##div:nth-of-type(1) > .each_adv_center
