@@ -124,4 +124,4 @@ ani24yoi.com##.view_box_right > [href^="/ads.php"]
 linktv.co##.popover-content
 
 ! 2019. 3. 13. https://www.bujatv16.me
-www.bujatv*.me##div:nth-of-type(1) > .each_adv_center
+www.bujatv16.me##div:nth-of-type(1) > .each_adv_center
