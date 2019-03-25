@@ -4,6 +4,13 @@
 127.0.0.1 warning.or.kr
 127.0.0.1 ahnlab.tagtree.co.kr
 127.0.0.1 v3contents.ahnlab.com
+127.0.0.1 stat.teafone.com
+127.0.0.1 api-mktt.sktswe.net
+127.0.0.1 view-mktt.sktswe.net
+127.0.0.1 image-mktt.sktswe.net
+127.0.0.1 event.skt-phone.co.kr
+127.0.0.1 xconf.cauly.co.kr
+
 # REF
 127.0.0.1 *.koramgame.co.kr
 127.0.0.1 0.0.0.0
