@@ -1,4 +1,4 @@
-# Darkness Angel's ADBLOCK(19/01/31) - http://dateno1.egloos.com/151347
+# Darkness Angel's ADBLOCK(19/08/19) - http://dateno1.egloos.com/151347
 # Unified hosts file(19/09/06) - https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # MyList
 0.0.0.0 warning.or.kr
